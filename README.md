@@ -7,6 +7,8 @@ Install these prerequisites to use the application.
 - Ganache: http://truffleframework.com/ganache/
 - Metamask: https://metamask.io/
 
+Note: You used Nifty Wallet (https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en) as an alternative? May want to provide the option here and justify its use.
+
 ## Step 1. Install dependencies
 ```
 $ cd election
